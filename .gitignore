@@ -179,3 +179,17 @@ UpgradeLog*.htm
 *.bim_*.settings
 # Microsoft Fakes
 FakesAssemblies/
+
+#Faber
+# Directories
+/.vs
+/.vscode
+**/Binaries
+**/Build
+**/Assets
+**/.DS_Store
+
+# Files
+**.sln
+**.vcxproj
+**.vcxproj.*
